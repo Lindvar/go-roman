@@ -7,7 +7,6 @@ Replace localhost with the name or IP of your DockerHost.
 
 ## Run with docker
 
-
 Build the image:
 
     docker build -t myapp .
